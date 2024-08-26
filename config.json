@@ -1,0 +1,5 @@
+{
+    "port": 10000,
+    "working_directory": "web_root",
+    "max_request_size": 8192
+}
